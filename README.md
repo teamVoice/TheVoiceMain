@@ -6,4 +6,6 @@ This project contains two Intterfaces
 
 this is just a main repo.
 for the app there is another repo and for web another repo.
-App : 
+
+App : https://github.com/teamVoice/thevoice.git
+Web : https://github.com/teamVoice/thevoiceWeb.git
